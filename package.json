@@ -1,0 +1,21 @@
+{
+  "name": "synthwave--88",
+  "displayName": "Synthwave '88",
+  "description": "Kellen's custom synthwave theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthwave '88",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Synthwave '88-color-theme.json"
+      }
+    ]
+  }
+}
