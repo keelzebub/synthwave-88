@@ -15,6 +15,11 @@
         "label": "Synthwave '88",
         "uiTheme": "vs-dark",
         "path": "./themes/Synthwave '88-color-theme.json"
+      },
+      {
+        "label": "Synthwave '88 (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Synthwave '88-light-color-theme.json"
       }
     ]
   }

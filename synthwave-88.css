@@ -21,16 +21,34 @@
   text-shadow: 0 0 2px #001716, 0 0 3px #03edf9, 0 0 5px #03edf9, 0 0 15px #03edf9;
 }
 
-.mtk18,
-.mtk16,
 .mtk12 {
+  color: #fc5862;
+  text-shadow: 0 0 2px #000, 0 0 5px #fc1f2c, 0 0 25px #fc1f2c;
+}
+
+.sticky-line-content .mtk12 {
+  color: #fc1f2c;
+  text-shadow: 0 0 2px #000, 0 0 10px #fc1f2c, 0 0 5px #fc1f2c, 0 0 25px #fc1f2c;
+}
+
+/* .mtk12 {
+  color: #e4daed;
+  text-shadow: 0 0 2px #000, 0 0 10px #9e66d4, 0 0 5px #9e66d4;
+}
+
+.sticky-line-content .mtk12 {
+  color: #9e66d4;
+  text-shadow: 0 0 2px #000, 0 0 10px #9e66d4, 0 0 5px #9e66d4;
+} */
+
+.mtk18,
+.mtk16 {
   color: #fff5f6;
   text-shadow: 0 0 2px #000, 0 0 10px #fc1f2c, 0 0 5px #fc1f2c, 0 0 25px #fc1f2c;
 }
 
 .sticky-line-content .mtk18,
-.sticky-line-content .mtk16,
-.sticky-line-content .mtk12 {
+.sticky-line-content .mtk16{
   color: #fc1f2c;
   text-shadow: 0 0 2px #000, 0 0 10px #fc1f2c, 0 0 5px #fc1f2c;
 }
