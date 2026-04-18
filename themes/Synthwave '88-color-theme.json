@@ -117,6 +117,8 @@
     "sideBar.foreground": "#ffffff99",
     "sideBarSectionHeader.background": "#001617",
     "sideBarSectionHeader.foreground": "#ffffffca",
+    "sideBar.border": "#ffffff10",
+    "sideBarActivityBarTop.border": "#ffffff10",
     "statusBar.background": "#00161790",
     "statusBar.debuggingBackground": "#f97e72",
     "statusBar.debuggingForeground": "#08080f",
